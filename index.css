@@ -1,0 +1,9 @@
+.btn:focus{
+color: bisque;
+}
+.img{
+ width: 200px; 
+ border: groove red;
+ height: 200px;
+ border-radius: 50%;
+}
