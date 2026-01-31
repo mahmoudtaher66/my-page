@@ -2,8 +2,15 @@
 color: bisque;
 }
 body{
- background-color: red;
+ background: #3498db;
 }
+.img{
+ width: 200px; 
+ border: groove red;
+ height: 200px;
+ border-radius: 50%;
+}
+
 
 
 
